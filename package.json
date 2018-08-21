@@ -1,0 +1,19 @@
+{
+  "name": "notifi-client",
+  "version": "1.0.0",
+  "description": "JS client for Golang server of the QBO app Notifi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nombiezinja/notifi-client.git"
+  },
+  "author": "Ti Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nombiezinja/notifi-client/issues"
+  },
+  "homepage": "https://github.com/nombiezinja/notifi-client#readme"
+}
